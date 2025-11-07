@@ -14,4 +14,10 @@ Project is created with:
 * TunePad
 
 ## Setup
-This project is a json file and can be opened through 
+This project is a json file and can be opened through the following steps. 
+* Download raw json file
+* Go to tunepad
+* Click on projects --> Import
+* Choose json file
+* Import file
+* Click play
